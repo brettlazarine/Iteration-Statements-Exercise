@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Owajx2GxMHTI/vMU92uTfZKYltOjw6GdVsSMuk7MdFzvpzZgHUZuE88G97bow19PXkOf2clTg+XYMbhE9XVm0g==",
+  "dgSpecHash": "G6sJ0AogQD1MdWoHz3nwSBwhNC3gSkMvMOmYLrEBw5juJuKfPQLPt0AqCgNRz87g/cHQGkInLK/jL+uV9bT9oQ==",
   "success": true,
-  "projectFilePath": "\\\\vmware-host\\Shared Folders\\Desktop\\repos\\csharp-31\\Iteration-Statements-Exercise\\IterationStatements\\IterationStatements.csproj",
+  "projectFilePath": "C:\\TrueCoders\\GitHub\\repos\\Iteration-Statements-Exercise\\IterationStatements\\IterationStatements.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
